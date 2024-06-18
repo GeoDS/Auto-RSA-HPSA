@@ -21,4 +21,6 @@ python run_leiden.py -pu 70000 -nu 18 -pr 40000 -nr 6 -o results >leiden_out.txt
 python run_louvain.py -pu 70000 -nu 18 -pr 40000 -nr 6 -o results >louvain_out.txt
 ```
 
+The expected outputs are three figures of RSAs at different stages and the final census tract cluster membership file.
+
 
