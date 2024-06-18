@@ -33,4 +33,4 @@ python run_louvain.py -pu 70000 -nu 18 -pr 40000 -nr 6 -o results >louvain_out.t
 The expected outputs are three figures of RSAs at different stages and the final census tract cluster membership file.
 
 ### HPSA scoring
-The HPSA scoring process is completed using ArcGIS toolboxes, which cover 5 data processing tools and 2 scoring tools. More constructions can be found in this document.
+The HPSA scoring process is completed using ArcGIS toolboxes, which cover 5 data processing tools and 2 scoring tools. More constructions can be found in this document (https://docs.google.com/document/d/11hDoePE8HM790ZqZi_649BpIPD9wmO5RM8DxPh5d6yQ/edit?usp=sharing).
