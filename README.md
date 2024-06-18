@@ -12,13 +12,13 @@ If you find our code or ideas useful for your research, please cite our paper:
 
 ### Requirements
 The following packages are used with Python 3.10.11
-gdal=3.7.0
-geopandas=0.13.0
-geopandas-base=0.13.0
-networkx=3.1
-numpy=1.24.3
-pandas=2.0.1
-python-igraph=0.10.4
+- gdal=3.7.0
+- geopandas=0.13.0
+- geopandas-base=0.13.0
+- networkx=3.1
+- numpy=1.24.3
+- pandas=2.0.1
+- python-igraph=0.10.4
 
 ### Implementation
 
