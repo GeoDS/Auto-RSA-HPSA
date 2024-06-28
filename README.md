@@ -7,8 +7,24 @@ How people travel to receive health services is essential for understanding heal
 
 ![workflow](https://github.com/GeoDS/Auto-RSA-HPSA/assets/46972608/dcb740f2-50b1-45a8-a6ef-b7619feaf2f7)
 
-### References
+### Reference
 If you find our code or ideas useful for your research, please cite our paper:
+
+Liang, Y.& Gao, S. (2024) Automatic delineation of rational service areas and health professional shortage areas in GIS based on human movements and
+health resources. *Transactions in GIS*, 28(5), 1-20. [https://doi.org/10.1111/tgis.13207](DOI: https://doi.org/10.1111/tgis.13207)
+```
+@article{liang2024,
+  title     = {Automatic delineation of rational service areas and health professional shortage areas in GIS based on human movements and
+health resources},
+  author    = {Liang, Yunlei and Gao, Song},
+  journal   = {Transactions in GIS},
+  volumn    = {28},
+  issue     = {5},
+  pages     = {1--20},
+  year = {2024}
+}
+```
+
 
 ### Requirements
 The following packages are used with Python 3.10.11
